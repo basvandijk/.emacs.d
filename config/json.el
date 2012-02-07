@@ -1,3 +1,5 @@
+(add-to-list 'load-path "~/.emacs.d/vendor/json-mode")
+
 (require 'json-mode)
 
 (defun beautify-json ()

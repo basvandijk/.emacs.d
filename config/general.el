@@ -31,6 +31,8 @@
 
 (tool-bar-mode -1)
 
+(setq mouse-wheel-progressive-speed nil)
+
 ;; Syntax highlighting
 (global-font-lock-mode 1)
 
