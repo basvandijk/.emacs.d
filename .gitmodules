@@ -4,3 +4,15 @@
 [submodule "vendor/js2-mode"]
 	path = vendor/js2-mode
 	url = https://github.com/mooz/js2-mode.git
+[submodule "vendor/zenburn-emacs"]
+	path = vendor/zenburn-emacs
+	url = git://github.com/bbatsov/zenburn-emacs.git
+[submodule "vendor/ghc-mod"]
+	path = vendor/ghc-mod
+	url = git://github.com/kazu-yamamoto/ghc-mod.git
+[submodule "vendor/emacs-haskell-unicode-input-method"]
+	path = vendor/emacs-haskell-unicode-input-method
+	url = git://github.com/roelvandijk/emacs-haskell-unicode-input-method.git
+[submodule "vendor/haskell-mode"]
+	path = vendor/haskell-mode
+	url = git://github.com/haskell/haskell-mode.git

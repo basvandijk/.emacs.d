@@ -10,7 +10,6 @@
 (setq config-directory "~/.emacs.d/config")
 (load-els config-directory)
 
-
 ;;; This was installed by package-install.el.
 ;;; This provides support for the package system and
 ;;; interfacing with ELPA, the package archive.
